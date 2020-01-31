@@ -1,0 +1,14 @@
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore\Quarto-GameCore\Quarto-GameCore\obj\Debug\Quarto-GameCore.csprojAssemblyReference.cache
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore\Quarto-GameCore\Quarto-GameCore\obj\Debug\Quarto-GameCore.csproj.CoreCompileInputs.cache
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore\Quarto-GameCore\Quarto-GameCore\bin\Debug\Quarto-GameCore.exe.config
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore\Quarto-GameCore\Quarto-GameCore\bin\Debug\Quarto-GameCore.exe
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore\Quarto-GameCore\Quarto-GameCore\bin\Debug\Quarto-GameCore.pdb
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore\Quarto-GameCore\Quarto-GameCore\obj\Debug\Quarto-GameCore.exe
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore\Quarto-GameCore\Quarto-GameCore\obj\Debug\Quarto-GameCore.pdb
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore-gamepiec\GameCore\Quarto-GameCore\Quarto-GameCore\bin\Debug\Quarto-GameCore.exe.config
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore-gamepiec\GameCore\Quarto-GameCore\Quarto-GameCore\bin\Debug\Quarto-GameCore.exe
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore-gamepiec\GameCore\Quarto-GameCore\Quarto-GameCore\bin\Debug\Quarto-GameCore.pdb
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore-gamepiec\GameCore\Quarto-GameCore\Quarto-GameCore\obj\Debug\Quarto-GameCore.csprojAssemblyReference.cache
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore-gamepiec\GameCore\Quarto-GameCore\Quarto-GameCore\obj\Debug\Quarto-GameCore.csproj.CoreCompileInputs.cache
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore-gamepiec\GameCore\Quarto-GameCore\Quarto-GameCore\obj\Debug\Quarto-GameCore.exe
+C:\Users\Marve\OneDrive\Documents\Visual Studio 2017\GameCore-gamepiec\GameCore\Quarto-GameCore\Quarto-GameCore\obj\Debug\Quarto-GameCore.pdb
